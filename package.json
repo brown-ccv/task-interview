@@ -1,6 +1,6 @@
 {
-  "name": "programming",
-  "description": "Programming Task",
+  "name": "interview",
+  "description": "Interview Task",
   "author": {
     "name": "Brown CCV",
     "email": "ccv-bot@brown.edu",
@@ -11,7 +11,7 @@
   "private": true,
   "main": "public/electron.js",
   "homepage": ".",
-  "repository": "https://github.com/brown-ccv/task-programming",
+  "repository": "https://github.com/brown-ccv/task-interview",
   "dependencies": {
     "@fortawesome/fontawesome-free": "^5.9.0",
     "bootstrap": "^4.3.1",
