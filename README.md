@@ -1,3 +1,6 @@
+# ⚠️ Archived
+Moved to https://github.com/neuromotion/sync-task
+
 # Interview Task
 <p float="left">
   <img src="interview.svg" width="200" />
